@@ -1,0 +1,31 @@
+# Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image Processing
+Pillow>=10.0.0
+opencv-python>=4.8.0
+
+# Scientific Computing
+numpy>=1.24.0
+scikit-image>=0.21.0
+
+# Metrics
+pytorch-msssim>=0.2.1
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+tqdm>=4.65.0
+
+# Model Architecture (Pre-trained models)
+# VGG19 will be downloaded automatically via torchvision.models
+
+# Optional: For GPU acceleration
+# CUDA toolkit should be installed separately based on your system
+
+# Development Tools (Optional)
+# jupyter>=1.0.0
+# ipython>=8.0.0

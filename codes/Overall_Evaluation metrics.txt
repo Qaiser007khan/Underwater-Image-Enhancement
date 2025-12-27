@@ -1,0 +1,66 @@
+						Dataset-1
+Test/Raw vs Generated/enhanced
+
+Average SSIM: 0.8178
+Average PSNR: 18.9044 dB
+Average MSE: 0.0175
+Average UIQM: 3.0222
+Average UCIQE: 0.5491
+
+EUVP test/ reference vs generated output
+Average SSIM: 0.8491
+Average PSNR: 22.5167 dB
+Average MSE: 0.0084
+Average UIQM: 2.8518
+Average UCIQE: 0.5146
+
+Test/Reference vs Generated/ Enhanced
+Average SSIM: 0.8863
+Average PSNR: 23.7088 dB
+Average MSE: 0.0059
+Average UIQM: 3.0222
+Average UCIQE: 0.5491
+
+Adamax- ep 250 - training psnr 25 plus
+Test Dataset Reading Completed.
+Testing completed.
+Total testing time: 8.941035270690918
+Average SSIM: 0.8924
+Average PSNR: 24.9510 dB
+Average UIQM: 3.1885
+Average UCIQE: 0.5891
+
+Test/Raw vs Test/Reference
+Average SSIM: 0.7884
+Average PSNR: 17.7680 dB
+Average MSE: 0.0229
+Average UIQM: 3.0348
+Average UCIQE: 0.5544
+ 
+						Dataset-2
+euvp/test/raw vs test/generated / enhanced
+
+Average SSIM: 0.8602
+Average PSNR: 19.8995 dB
+Average MSE: 0.0121
+Average UIQM: 2.8518
+Average UCIQE: 0.5146
+
+Test Dataset Reading Completed. (Tesla t4)
+Testing completed.
+Total testing time: 439.5066981315613
+Average SSIM: 0.8520
+Average PSNR: 29.6310 dB
+Average UIQM: 3.0218
+
+
+Test Dataset Reading Completed. (Kaggle P100)
+Testing completed.
+Total testing time: 121.78503847122192
+Average SSIM: 0.8603
+Average PSNR: 29.5985 dB
+Average UIQM: 3.0313
+
+Got these through normalized evaluation for EUVP DATASET
+Average UCIQE: 0.5134
+Average MSE: 0.0066

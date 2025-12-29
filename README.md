@@ -12,6 +12,7 @@
 <table>
   <tr>
     <td><img src="Enhanced Images/4.png" width="250"/></td>
+    <td><img src="Enhanced Images/9_img_.png" width="250"/></td>
   </tr>
   <tr>
     <td align="center">Enhanced Image</td>

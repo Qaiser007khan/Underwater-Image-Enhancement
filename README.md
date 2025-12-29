@@ -7,6 +7,16 @@
 **Advanced deep learning model for underwater image enhancement combining Inception modules, Squeeze-and-Excitation layers, and depthwise separable convolutions.**
 
 ---
+### Detection Results
+
+<table>
+  <tr>
+    <td><img src="Enhanced Images/4.png.jpg" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center">Tobacco Plants</td>
+  </tr>
+</table>
 
 ## 📋 Overview
 

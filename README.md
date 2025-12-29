@@ -11,10 +11,10 @@
 
 <table>
   <tr>
-    <td><img src="Enhanced Images/4.png.jpg" width="250"/></td>
+    <td><img src="Enhanced Images/4.png" width="250"/></td>
   </tr>
   <tr>
-    <td align="center">Tobacco Plants</td>
+    <td align="center">Enhanced Image</td>
   </tr>
 </table>
 
